@@ -20,7 +20,8 @@
 - Gain experience with real-world tools: Git, GitHub, Figma, Notion, Trello  
 - Learn project planning, time management, and team collaboration  
 - Prepare a year-end digital project presentation (Moses)  
-- Encourage creativity, curiosity, and a love for building  
+- Encourage creativity, curiosity, and a love for building
+- Have fun  
 
 ---
 
