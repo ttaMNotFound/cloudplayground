@@ -43,6 +43,8 @@
 
 ### 🚀 Getting Started
 
+This is my initial commit
+
 #### 1. **Clone this repo**
 Each contributor should fork the repo and clone their fork:
 
