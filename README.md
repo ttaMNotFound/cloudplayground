@@ -44,6 +44,7 @@
 ### 🚀 Getting Started
 
 This is my initial commit
+Hello World!
 
 #### 1. **Clone this repo**
 Each contributor should fork the repo and clone their fork:
